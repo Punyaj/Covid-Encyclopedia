@@ -24,7 +24,7 @@
 }
 
 html{
-  font-size: 62.5%;
+  font-size: 62%;
   overflow-x: hidden;
 }
 
@@ -361,7 +361,7 @@ header .fa-bars{
 
 .post .box-container .box{
   width:30rem;
-  margin:2rem 1rem;
+  margin:2rem 2rem;
   overflow: hidden;
   border-radius: .5rem;
   box-shadow: 0 .3rem .5rem rgba(0,0,0,.3);
@@ -437,6 +437,18 @@ header .fa-bars{
   color:var(--red);
 }
 
+.footer .credit{
+  color:#fff;
+  width:80%;
+  margin:0;
+  padding:2rem 0;
+  padding-bottom: 4rem;
+  border-top: .1rem solid #ccc !important;
+}
+
+.footer .credit span{
+  color:var(--blue);
+}
 
 
 

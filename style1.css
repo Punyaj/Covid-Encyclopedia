@@ -361,7 +361,7 @@ header .fa-bars{
 
 .post .box-container .box{
   width:30rem;
-  margin:2rem 1rem;
+  margin:2rem 2rem;
   overflow: hidden;
   border-radius: .5rem;
   box-shadow: 0 .3rem .5rem rgba(0,0,0,.3);
@@ -398,18 +398,19 @@ header .fa-bars{
   color:var(--black);
 }
 
+
 .footer{
   background:var(--black);
 }
 
 .footer p{
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color:#eee;
   padding:1rem 0;
 }
 
 .footer .col-md-4{
-  padding:1.3rem
+  padding:1rem
 }
 
 .footer .col-md-4:nth-child(1) a{
@@ -422,14 +423,15 @@ header .fa-bars{
 }
 
 .footer a{
-  font-size: 2rem;
+  font-size: 1.5rem;
   color:#ccc;
   display: block;
 }
 
 .footer h3{
+  padding-top: 3%;
   color:#fff;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .footer a:hover{
@@ -446,8 +448,9 @@ header .fa-bars{
 }
 
 .footer .credit span{
-  color:var(--red);
+  color:var(--blue);
 }
+
 
 
 
