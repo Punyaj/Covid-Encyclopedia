@@ -163,6 +163,10 @@ header .fa-bars{
   color:var(--red);
 }
 
+.home .content h3 span{
+  color:var(--red);
+}
+
 .home .content h3{
   font-size: 4rem;
   color:var(--black);
@@ -494,7 +498,7 @@ header .fa-times{
     border-radius: .5rem;
     border:.3rem solid var(--blue) !important;
     background:#fff;
-    width: 95%;
+    width: 85%;
     opacity: 0;
   }
 
